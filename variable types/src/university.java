@@ -8,8 +8,9 @@ public class university {
         name=n;
         student=s;
         attendance=a;
-        Lecturer=L;
-        room=r;
+       university. Lecturer=L;
+       university. room=r;
+
     }
 
 }
