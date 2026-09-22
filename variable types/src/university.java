@@ -1,6 +1,6 @@
 public class university {
-    String Name;
-    int student;
+    String name;
+    Double student;
     int attendance;
     static String Lecturer;
     static  String room;
