@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3366a696-c40c-4cea-9a70-fb6d39ee1e64" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/university.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/university.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/University.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

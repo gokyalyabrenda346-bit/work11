@@ -1,17 +1,15 @@
-import java.sql.SQLOutput;
-
-public class university {
+public class University {
     String name;
     Double student;
     int attendance;
     static String Lecturer;
     static  String room;
-    public university(String n,Double s,int a,String L,String r){
+    public University(String n,Double s,int a,String L,String r){
         name=n;
         student=s;
         attendance=a;
-       university. Lecturer=L;
-       university. room=r;
+       University. Lecturer=L;
+       University. room=r;
 
     }
     public void money(){
